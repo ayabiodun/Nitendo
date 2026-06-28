@@ -1,0 +1,23 @@
+/* Variables */
+:root{
+    --secondary-color: #E60012;
+    --text-color: #434242;
+    --background-color: #ffffff;
+    --other-color: #efefef;
+    --seperate-color: #484848;
+}
+
+/* Reset Styles */
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: var(--background-color);
+    font-family: 'Geologica';
+}
